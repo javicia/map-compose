@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapCompose</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBVj02-8c5tXs9B5sps8ZWOn6C0rnF94mI</string>
+</resources>
